@@ -1,2 +1,2 @@
-# dhanya
-whitehatjr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
